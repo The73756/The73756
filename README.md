@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @The73756
-- 👀 I’m interested in education
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on none
-- 📫 How to reach me on tg @the73756
+## Hi there, I'm [Daniil](https://www.youtube.com/watch?v=oHg5SJYRHA0&ab_channel=cotter548)
 
-<!---
-The73756/The73756 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Frontend lover and React (Next.js) enjoyer from Russia
+
+I like to create different web applications and pizza 🍕
+
+---
+
+I don't know what else to say, so here's a picture of a cat
+
+![Cat](https://http.cat/404)
