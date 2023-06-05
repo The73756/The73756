@@ -1,4 +1,4 @@
-## Hi there, I'm [Daniil](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+## Hi there, I'm [Daniil](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) 👋
 
 ### Frontend lover and React (Next.js) enjoyer from Russia
 
