@@ -6,6 +6,7 @@ I like to create different web applications and pizza 🍕
 
 ---
 
-I don't know what else to say, so here's a picture of a cat
+I don't know what else to say about myself, and there won't even be a picture of a cat here, so I'll just leave a quote from the movie **"The Matrix"**:
 
-![Cat](https://http.cat/404)
+> **I know kung fu**
+
